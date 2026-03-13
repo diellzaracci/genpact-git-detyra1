@@ -4,4 +4,5 @@ This repo demonstrates Git history cleanup, lost commits recovery, custom aliase
 Screenshots of Git alias:
 
 ![Command Alias](alias-command.png)
+
 ![Hist Alias](git-hist.png)
