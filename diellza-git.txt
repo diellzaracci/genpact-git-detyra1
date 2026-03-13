@@ -1,3 +1,4 @@
 Initializing my project
 Adding more stuff
 Finalizing my project
+Adding a mistake
